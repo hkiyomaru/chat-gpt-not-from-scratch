@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # ゼロから作らない ChatGPT
 
 ## 言語モデル
