@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+permalink: /
 ---
 # ゼロから作らない ChatGPT
 
