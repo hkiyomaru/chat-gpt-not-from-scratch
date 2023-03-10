@@ -1,7 +1,7 @@
 title: ゼロから作らない ChatGPT
-
-author:
-  name: Hirokazu Kiyomaru
-  email: h.kiyomaru@gmail.com
+author: Hirokazu Kiyomaru
+email: 'h.kiyomaru@gmail.com'
+url: https://hkiyomaru.github.io/chat-gpt-not-from-scratch/
+markdown: kramdown
 
 theme: minima
